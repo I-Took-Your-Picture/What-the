@@ -33,40 +33,72 @@
   
 </div>
 
-<p align="center">~
 
-<p align="center">~
+<p align="center"> $\color{#E22518}{\textsf{~}}$
 
-<p align="center">~
+<p align="center"> $\color{#E22518}{\textsf{~}}$
 
-<p align="center">~
+<p align="center"> $\color{#E22518}{\textsf{~}}$
 
-<p align="center">~
+<p align="center"> $\color{#E22518}{\textsf{~}}$
 
-<p align="center">~
+<p align="center"> $\color{#E22518}{\textsf{~}}$
 
-<p align="center">~
+<p align="center"> $\color{#E22518}{\textsf{~}}$
 
-<p align="center">~
+<p align="center"> $\color{#E22518}{\textsf{~}}$
 
-<p align="center">~
+<p align="center"> $\color{#E22518}{\textsf{~}}$
 
-<p align="center">~
+<p align="center"> $\color{#E22518}{\textsf{~}}$
 
-<p align="center">~
+<p align="center"> $\color{#E22518}{\textsf{~}}$
 
-<p align="center">~
+<p align="center"> $\color{#E22518}{\textsf{~}}$
 
-<p align="center">~
+<p align="center"> $\color{#E22518}{\textsf{~}}$
 
-<p align="center">~
+<p align="center"> $\color{#E22518}{\textsf{~}}$
 
-<p align="center">~
+<p align="center"> $\color{#E22518}{\textsf{~}}$
 
-<p align="center">~
+<p align="center"> $\color{#E22518}{\textsf{~}}$
+
+<p align="center"> $\color{#E22518}{\textsf{~}}$
+
+<p align="center"> $\color{#E22518}{\textsf{~}}$
+
+<p align="center"> $\color{#E22518}{\textsf{~}}$
+
+<p align="center"> $\color{#E22518}{\textsf{~}}$
+
+<p align="center"> $\color{#E22518}{\textsf{~}}$
+
+<p align="center"> $\color{#E22518}{\textsf{~}}$
+
+<p align="center"> $\color{#E22518}{\textsf{~}}$
+
+<p align="center"> $\color{#E22518}{\textsf{~}}$
+
+<p align="center"> $\color{#E22518}{\textsf{~}}$
+
+<p align="center"> $\color{#E22518}{\textsf{~}}$
+
+<p align="center"> $\color{#E22518}{\textsf{~}}$
+
+<p align="center"> $\color{#E22518}{\textsf{~}}$
+
+<p align="center"> $\color{#E22518}{\textsf{~}}$
+
+<p align="center"> $\color{#E22518}{\textsf{~}}$
+
+<p align="center"> $\color{#E22518}{\textsf{~}}$
+
+<p align="center"> $\color{#E22518}{\textsf{~}}$
+
 
 <div align="center">
   
-from my [main](https://github.com/Me-ImNot)
+$\color{#E22518}{\textsf{⁠Copied and pasted from my}}$ [main](https://github.com/Me-ImNot)
 
 </div>
