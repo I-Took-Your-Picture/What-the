@@ -33,36 +33,40 @@
   
 </div>
 
-~
+<p align="center">~
 
-~
+<p align="center">~
 
-~
+<p align="center">~
 
-~
+<p align="center">~
 
-~
+<p align="center">~
 
-~
+<p align="center">~
 
-~
+<p align="center">~
 
-~
+<p align="center">~
 
-~
+<p align="center">~
 
-~
+<p align="center">~
 
-~
+<p align="center">~
 
-~
+<p align="center">~
 
-~
+<p align="center">~
 
-~
+<p align="center">~
 
-~
+<p align="center">~
 
-~
+<p align="center">~
 
+<div align="center">
+  
 from my [main](https://github.com/Me-ImNot)
+
+</div>
